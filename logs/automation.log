@@ -1,0 +1,29 @@
+13:48:52.119 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+13:48:52.142 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+13:48:53.993 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+13:48:56.286 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+13:49:07.421 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+13:49:07.437 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+14:56:52.906 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login....***
+14:56:54.343 [main] INFO  testCases.TC002_Login - ***Ending TC002_Login....***
+17:33:09.853 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login....***
+17:33:11.891 [main] INFO  testCases.TC002_Login - ***Ending TC002_Login....***
+10:21:05.841 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login....***
+10:21:09.111 [main] INFO  testCases.TC002_Login - ***Ending TC002_Login....***
+10:23:36.489 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+10:23:38.554 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+10:23:38.598 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+10:23:40.345 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+10:23:40.360 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+10:24:28.340 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+10:24:30.217 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+10:24:30.257 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+10:24:31.868 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+10:24:31.890 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+14:07:35.766 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest********
+14:07:36.487 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+14:07:36.990 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+14:07:38.338 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:07:38.422 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finish TC001_AccountRegistrationTest********
+14:07:41.174 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login....***
+14:07:42.953 [main] INFO  testCases.TC002_Login - ***Ending TC002_Login....***

@@ -1,0 +1,51 @@
+13:13:17.562 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest********
+13:13:17.839 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+13:13:18.628 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+13:13:20.590 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:13:20.933 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finish TC001_AccountRegistrationTest********
+13:51:19.710 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest********
+13:51:20.108 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+13:51:20.739 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+13:51:22.202 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:51:22.259 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finish TC001_AccountRegistrationTest********
+14:40:02.354 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest********
+14:40:02.354 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest********
+14:40:02.838 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+14:40:02.847 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+14:40:04.870 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+14:40:05.151 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+14:40:08.815 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest********
+14:40:09.017 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+14:40:10.509 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+14:40:11.310 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:40:11.771 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******Finish TC001_AccountRegistrationTest********
+14:40:12.580 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:40:12.642 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******Finish TC001_AccountRegistrationTest********
+14:40:13.143 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:40:13.213 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******Finish TC001_AccountRegistrationTest********
+16:11:32.055 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest********
+16:11:32.397 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount
+16:11:32.969 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register
+16:11:34.655 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+16:11:34.738 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finish TC001_AccountRegistrationTest********
+11:01:05.798 [main] INFO  testCases.TC002_Login - ***Starting TC002_Login....***
+11:01:07.622 [main] INFO  testCases.TC002_Login - ***Ending TC002_Login....***
+12:24:16.118 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:24:18.026 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+12:24:18.039 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:24:19.741 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+12:24:19.747 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:24:21.430 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:24:23.537 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:24:44.769 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:48:24.758 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:48:27.210 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+12:48:27.221 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:48:28.924 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+12:48:28.933 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:48:30.757 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:48:32.877 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+12:48:54.047 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+13:48:48.408 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
+13:48:50.600 [main] INFO  testCases.TC003_DDTLogin - ****Ending TC003_DDTLogin****
+13:48:50.616 [main] INFO  testCases.TC003_DDTLogin - ****Starting TC003_DDTLogin****
